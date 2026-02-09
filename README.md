@@ -1,30 +1,11 @@
-# Al Malook Trading & Contracting Website
+# Al Malook Construction Website
 
-A responsive corporate website for **Al Malook Trading & Contracting**, an engineering and construction company based in Oman.
+Corporate website for Al Malook Construction Company.
 
-## 🚀 Features
-- Fully responsive design (Desktop, Tablet, Mobile)
-- Modern UI with brand color palette
-- SEO-friendly structure
-- Optimized images
-- Mobile navigation menu
-- Project portfolio section
-
-## 🛠️ Built With
+## Technologies
 - HTML5
-- CSS3 (Grid & Flexbox)
+- CSS3
 - JavaScript
-- Boxicons / Font Awesome
 
-## 🌍 Live Pages
-- Home
-- About
-- Services
-- Projects
-- Contact
-
-## 📱 Responsive
-Tested on desktop and mobile devices.
-
-## 📄 License
-This project is for business and portfolio use.
+## Live Demo
+https://USERNAME.github.io/almalook-website/
